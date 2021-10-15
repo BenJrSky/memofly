@@ -1,0 +1,23 @@
+
+
+
+
+POST https://www.memofly.it:3000/MW/v0.1/login
+Content-Type: application/json
+
+{
+    "email":"webdev@flyip.net",
+    "password":"kildeBoard"
+}
+
+
+################################
+
+
+POST https://www.memofly.it:3000/MW/v0.1/login
+Content-Type: application/json
+
+{
+    "email":"webdev@dfsfds.net",
+    "password":"kildeBoard"
+}
